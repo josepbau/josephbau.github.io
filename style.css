@@ -1,0 +1,68 @@
+p {
+  color: #e1d6b8
+  ;
+}
+body {
+  background-color: #9a948c
+  ;
+}
+h1 {
+  color: #c33d3b; 
+}
+ h1 {
+        font-size: 60px
+    }
+    h1 {
+  padding-top: 10px;    
+  padding-bottom: 10px; 
+  padding-left: 20px;   
+  padding-right: 20px;  
+}
+h2 {
+        font-size: 40px
+    }
+ p {
+        font-size: 20px
+    }  
+    h2 {
+  padding-top: 20px;   
+  padding-bottom: 20px; 
+  padding-left: 20px;   
+  padding-right: 20px;  
+}  
+    li {
+    font-size: 18px;
+}
+    li {
+        margin-bottom: 20px; /* Adds space between list items */
+        padding-left: 20px; /* Adds space between the marker and the text */
+    }
+ p {
+        margin-top: 25px;
+        margin-bottom: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+body {
+  font-family: sans-serif
+}
+body {
+  padding-top: 40px;    /* Adds 10px of internal space above the h1 content */
+  padding-bottom: 40px; /* Adds 10px of internal space below the h1 content */
+  padding-left: 40px;   /* Adds 20px of internal space to the left of the h1 content */
+  padding-right: 40px;  /* Adds 20px of internal space to the right of the h1 content */
+}
+.box {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+.box > * {
+  width: 1500px;
+  height: 75px;
+  background-color: rgb(96 180 280);
+  border: 2px;
+  padding: 20px;
+  margin: 20
+  px;
+}
